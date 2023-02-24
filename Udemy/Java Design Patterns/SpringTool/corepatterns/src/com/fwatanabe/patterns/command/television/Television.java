@@ -2,11 +2,11 @@ package com.fwatanabe.patterns.command.television;
 
 public class Television {
 	
-	public boolean on() {
-		return true;
+	public void on() {
+		System.out.println("Television switched on");
 	}
 	
-	public boolean off() {
-		return false;
+	public void off() {
+		System.out.println("Television switched off");
 	}
 }
