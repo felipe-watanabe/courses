@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=corepatterns/src&lt;com.fwatanabe.patterns.factory.person{Person.java[Person" modifiers="513" timestamp="1673309610428"/>
+    <typeInfo handle="=corepatterns/src&lt;com.fwatanabe.patterns.abstractfactory.daofactory{Dao.java[Dao" modifiers="513" timestamp="1673311739780"/>
+    <typeInfo handle="=corepatterns/src&lt;com.fwatanabe.patterns.abstractfactory.daofactory{DaoFactory.java[DaoFactory" modifiers="513" timestamp="1673311867390"/>
+    <typeInfo handle="=corepatterns/src&lt;com.fwatanabe.patterns.templatemethod.datarenderer{DataRenderer.java[DataRenderer" modifiers="1025" timestamp="1674091372883"/>
+    <typeInfo handle="=corepatterns/src&lt;com.fwatanabe.patterns.templatemethod.computermanufacturer{ComputerManufacturer.java[ComputerManufacturer" modifiers="1025" timestamp="1674093019822"/>
+    <typeInfo handle="=corepatterns/src&lt;com.fwatanabe.patterns.flyweight.paintapp{Shape.java[Shape" modifiers="1025" timestamp="1674786285552"/>
+    <typeInfo handle="=corepatterns/src&lt;com.fwatanabe.patterns.command.television{Command.java[Command" modifiers="513" timestamp="1676499776641"/>
+</typeInfoHistroy>

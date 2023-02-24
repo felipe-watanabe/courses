@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;OnCommand.java&apos; to &apos;corepatterns/src/com.fwatanabe.patterns.command.television&apos;&#x0A;- Original project: &apos;corepatterns&apos;&#x0A;- Destination element: &apos;corepatterns/src/com.fwatanabe.patterns.command.television&apos;&#x0A;- Original element: &apos;com.fwatanabe.patterns.command.television.OnCommand.java&apos;" description="Copy compilation unit" destination="/src&lt;com.fwatanabe.patterns.command.television" element1="/src&lt;com.fwatanabe.patterns.command.television{OnCommand.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1676499780706" units="1" version="1.0"/>
+</session>
